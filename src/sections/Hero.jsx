@@ -11,7 +11,7 @@ const Hero = () => {
           Muhammad <br /> Hamza
         </h1>
         <h1 className="uppercase text-xl lg:text-2xl font-bold font-Rubik mt-4 w-full">
-          Frontend Developer
+          ⭐ Full Stack Developer
         </h1>
 
         <div className="flex flex-row space-x-8 mt-4">
