@@ -11,7 +11,7 @@ const Hero = () => {
           Muhammad <br /> Hamza
         </h1>
         <h1 className="uppercase text-xl lg:text-2xl font-bold font-Rubik mt-4 w-full">
-          ⭐ Full Stack Developer
+          Full Stack Developer
         </h1>
 
         <div className="flex flex-row space-x-8 mt-4">
@@ -27,7 +27,7 @@ const Hero = () => {
         </div>
 
         <p className="mt-4 text-xl font-extralight w-[24ch] tracking-wider max-sm:leading-tight">
-        specialize in advanced JS, React.js, and Next.js
+          specialize in advanced JS, React.js, and Next.js
         </p>
 
         {/* <Button
